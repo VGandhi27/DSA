@@ -1,3 +1,6 @@
+// Problem:https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1
+// Solution:Given Below
+
 class Solution {
    public static ArrayList<Integer> duplicates(int arr[], int n) {
         // code here
